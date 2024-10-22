@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
-FreeCodeCamp
+Competiton on Kaggle, got 78% accuracy
